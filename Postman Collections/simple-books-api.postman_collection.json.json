@@ -16,6 +16,18 @@
 				"header": []
 			},
 			"response": []
+		},
+		{
+			"name": "submit an order",
+			"id": "39922be4-57d8-4b3f-ad63-df668d19c851",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
 		}
 	]
 }
