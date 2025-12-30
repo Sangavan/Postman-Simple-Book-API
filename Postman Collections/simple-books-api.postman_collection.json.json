@@ -1,0 +1,21 @@
+{
+	"info": {
+		"_postman_id": "f2bdc2a5-1f1a-4266-a6ad-8dc47556710a",
+		"name": "Books",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "New Request",
+			"id": "ac42fcf9-203f-43c4-9dd7-3644d689ed04",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
